@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Jun  2 10:43:40 2024
+# Process ID: 10996
+# Current directory: D:/FACULTATE/FACULTATE AN 1/Semestrul 2/PSN/proiect_stari/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log proiect.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source proiect.tcl
+# Log file: D:/FACULTATE/FACULTATE AN 1/Semestrul 2/PSN/proiect_stari/project_1/project_1.runs/synth_1/proiect.vds
+# Journal file: D:/FACULTATE/FACULTATE AN 1/Semestrul 2/PSN/proiect_stari/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: LAPTOP-F1L4SM7E, OS: Windows, CPU Frequency: 2595 MHz, CPU Physical cores: 4, Host memory: 32152 MB
+#-----------------------------------------------------------
+source proiect.tcl -notrace
